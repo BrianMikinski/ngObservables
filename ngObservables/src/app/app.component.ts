@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ngObservables';
+  title = 'Welcome to RxJs Observables Playground';
 }
